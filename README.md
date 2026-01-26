@@ -12,4 +12,4 @@
 |----|------------------|--------------|------------|
 | 1 | [جمع عددين داخل قيمة نصية](x) | 🔴 Hard | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
 
----
+
