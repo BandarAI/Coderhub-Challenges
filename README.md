@@ -1,12 +1,22 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=BandarAI.Coderhub-Challenges">
 
-## 🧠 CoderHub Repository
+# 🧠 CoderHub Repository
 
 <img align="center" width="100%" src="assets/ch.png">
 
 ---
 
-### 💻 Coding Challenges
+## 💻 Coding Challenges Solutions
+
+<div align="center">
+
+![Easy](https://img.shields.io/badge/Easy-64-brightgreen)
+![Medium](https://img.shields.io/badge/Medium-15-orange)
+![Hard](https://img.shields.io/badge/Hard-4-red)
+![Total](https://img.shields.io/badge/Total-83-blue)
+
+</div>
+
 
 | 🧩 Challenge Name | ⚡ Difficulty | 🛠 Solution |
 |------------------|--------------|------------|
