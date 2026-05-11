@@ -10,9 +10,9 @@
 
 <div align="center">
 
-![Easy](https://img.shields.io/badge/Easy-84-brightgreen)
-![Medium](https://img.shields.io/badge/Medium-28-orange)
-![Hard](https://img.shields.io/badge/Hard-7-red)
-![Total](https://img.shields.io/badge/Total-119-blue)
+![Easy](https://img.shields.io/badge/Easy-89-brightgreen)
+![Medium](https://img.shields.io/badge/Medium-32-orange)
+![Hard](https://img.shields.io/badge/Hard-13-red)
+![Total](https://img.shields.io/badge/Total-134-blue)
 
 </div>
